@@ -1,0 +1,13 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "nutrition-guide-app",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
